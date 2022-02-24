@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Diji Yang"
-excerpt: "Diji Yang"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
