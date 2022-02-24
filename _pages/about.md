@@ -15,4 +15,4 @@ My research interest lies at the intersection of Natrual Language Processing and
 News
 ======
 ∙ [11/2021] One paper is in submission to [ACL 2022](https://www.2022.aclweb.org/)<br />
-∙ [07/2021] I will (re)join UCSC at [NLP MS](https://grad.soe.ucsc.edu/nlp) since this Fall
+∙ [07/2021] I will (re)join UCSC at [NLP MS](https://grad.soe.ucsc.edu/nlp) starting this fall
