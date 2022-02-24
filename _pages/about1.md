@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a graduate student from [NLP MS](https://grad.soe.ucsc.edu/nlp) at [University of California, Santa Cruz](https://www.ucsc.edu/). I received my Bachelor's degree from UC Santa Cruz in Computer Science and Statistics. I'm fortunate to work with [Prof. Xin Eric Wang](https://eric-xw.github.io/) and [Jeffrey Flanigan](https://jflanigan.github.io/) on NLP research. 
+I'm currently a graduate student at [University of California, Santa Cruz](https://www.ucsc.edu/). I received my Bachelor's degree from UC Santa Cruz in Computer Science and Statistics. I'm fortunate to work with [Prof. Xin Eric Wang](https://eric-xw.github.io/) and [Jeffrey Flanigan](https://jflanigan.github.io/) on NLP research. 
 
-My research interest lies at the intersection of Natrual Language Processing and Computer Vision. I'm currently working on Prompt Engineering and Multimodel Question Answering. My ultimate research goal is to build an intelligent system that can contribute to the human daily life.
+My research interest lies at the intersection of Natrual Language Processing and Computer Vision. I'm currently working on Prompt Engineering and Multimodal Question Answering. My ultimate research goal is to build an intelligent system that can contribute to the human daily life.
 
 News
 ======
