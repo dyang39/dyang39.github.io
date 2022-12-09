@@ -8,10 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a graduate student at [University of California, Santa Cruz](https://www.ucsc.edu/). I received my Bachelor's degree from UC Santa Cruz in Computer Science and Statistics. I'm fortunate to work with [Prof. Yi Zhang](https://sites.google.com/ucsc.edu/yizhang/) and [Prof. Xin Eric Wang](https://eric-xw.github.io/) on NLP research. 
+I'm currently a PhD student at [University of California, Santa Cruz](https://www.ucsc.edu/) working with [Prof. Yi Zhang](https://sites.google.com/ucsc.edu/yizhang/). I received my Master's degree in Natural Language Processing and Bachelor's degree in Computer Science and Statistics from UC Santa Cruz. I'm fortunate to have joined [Prof. Xin Eric Wang](https://eric-xw.github.io/)'s lab to focus on the NLP research. 
 
-My research interest lies at the intersection of Natural Language Processing and Computer Vision. I'm currently working on Prompt Engineering and Multimodal Question Answering. My ultimate research goal is to build an intelligent system that can contribute to the human daily life.
 
-News
+Research interest
 ======
-∙ [07/2021] I will (re)join UCSC at [NLP MS](https://grad.soe.ucsc.edu/nlp) starting this fall
+My research interest lies at the intersection of Natural Language Processing and Computer Vision. I work on language generation, knowledge reasoning, and applications such as Multimodal Question Answering and task-orientated dialogue systems.
+
+
+Experience
+======
+Teaching Assistant for Programming Abstractions, 2022
+Reasearch Assistant for Natural Language Processing, 2022
+
+
+News:
+======
+∙ [09/2022] Our paper [CPL](https://arxiv.org/abs/2210.10362) is accepted by EMNLP 2022
+
+∙ [07/2021] I will join the [NLP MS](https://grad.soe.ucsc.edu/nlp) program starting this fall
