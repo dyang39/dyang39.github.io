@@ -18,8 +18,8 @@ My research interest lies at the intersection of Natural Language Processing and
 
 Experience
 ======
-Teaching Assistant for Programming Abstractions, 2022
-Reasearch Assistant for Natural Language Processing, 2022
+∙ Teaching Assistant for Programming Abstractions, 2022
+∙ Reasearch Assistant for Natural Language Processing, 2022
 
 
 News:
