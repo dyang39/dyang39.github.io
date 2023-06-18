@@ -18,12 +18,15 @@ My research interest lies at the intersection of Natural Language Processing and
 
 Experience
 ======
+∙ AI Resident at [Mineral Earth Sciences](https://mineral.ai/), an Alphabet company, [previous Google[X] project](https://x.company/projects/mineral/)\
 ∙ Teaching Assistant for Programming Abstractions, 2022\
 ∙ Reasearch Assistant for Natural Language Processing, 2021
 
 
 News:
 ======
+∙ [03/2023] I am excited to be working as a part-time AI resident at [Mineral](https://mineral.ai/) this quarter.
+
 ∙ [09/2022] Our paper [CPL](https://arxiv.org/abs/2210.10362) is accepted by EMNLP 2022
 
 ∙ [07/2021] I will (re)join UCSC as a Graduate student
