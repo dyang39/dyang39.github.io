@@ -13,7 +13,7 @@ I'm currently a PhD student at [University of California, Santa Cruz](https://ww
 
 Research interest
 ======
-My research interest lies at the intersection of Natural Language Processing and Computer Vision. I work on language generation, knowledge reasoning, and applications such as Multimodal Question Answering and task-orientated dialogue systems.
+My research interest lies at the intersection of Natural Language Processing and Computer Vision. I work on language generation, knowledge reasoning, and applications such as Multimodal Question Answering and task-oriented dialogue systems.
 
 
 Experience
