@@ -13,12 +13,13 @@ I'm currently a PhD student at [University of California, Santa Cruz](https://ww
 
 Research interest
 ======
-My research interest lies at the intersection of Natural Language Processing and Computer Vision. I work on language generation, knowledge reasoning, and applications such as Multimodal Question Answering and task-oriented dialogue systems.
+My research interest lies at the intersection of Natural Language Processing and Multimodal Information Retrieval. I work on generative language model, knowledge reasoning, and applications such as multimodal question answering and task-oriented dialogue systems.
 
 
 Experience
 ======
-∙ AI Resident at [Mineral Earth Sciences](https://mineral.ai/), an Alphabet company, [previous Google[X] project](https://x.company/projects/mineral/)\
+∙ Applied Scientist Intern at Amazon Alexa\
+∙ AI Resident at [Mineral Earth Sciences](https://mineral.ai/), an Alphabet company, [previous Google[X] project](https://x.company/projects/mineral/), 2023\
 ∙ Teaching Assistant for Programming Abstractions, 2022\
 ∙ Reasearch Assistant for Natural Language Processing, 2021
 
