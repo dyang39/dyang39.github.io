@@ -20,7 +20,6 @@ Experience
 ======
 ∙ Applied Scientist Intern at Amazon Alexa\
 ∙ AI Resident at [Mineral Earth Sciences](https://mineral.ai/), an Alphabet company, [previous Google[X] project](https://x.company/projects/mineral/), 2023\
-∙ Teaching Assistant for Programming Abstractions, 2022\
 ∙ Research Assistant for Natural Language Processing, 2021
 
 
@@ -35,3 +34,9 @@ News:
 ∙ [09/2022] Our paper [CPL](https://arxiv.org/abs/2210.10362) is accepted by EMNLP 2022
 
 ∙ [07/2021] I will (re)join UCSC as a Graduate student
+
+
+Services:
+======
+**Teaching assistant**: Programming Abstractions 2022, Advanced Topics in Natural Language Processing 2023 \
+**Reviewer**: NeurIPS 2023, TheWebConf 2024
