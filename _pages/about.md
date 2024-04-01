@@ -39,4 +39,4 @@ News:
 Services:
 ======
 **Teaching assistant**: Programming Abstractions 2022, Advanced Topics in Natural Language Processing 2023 \
-**Reviewer**: NeurIPS 2023, TheWebConf 2024
+**Reviewer**: NeurIPS 2023, TheWebConf 2024, CVPR 2024
