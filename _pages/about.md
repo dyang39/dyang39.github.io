@@ -25,6 +25,8 @@ Experience
 
 News:
 ======
+∙ [03/2024] Our paper [IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues](https://sigir-2024.github.io/program_papers.html) is accepted by SIGIR 2024
+
 ∙ [12/2023] Our paper [Inner Monologue Multi-Modal Optimization](https://arxiv.org/abs/2308.09970) is accepted by AAAI 2024
 
 ∙ [10/2023] Our paper [Learning Inner Monologue](https://openreview.net/forum?id=hCZGKGZ802) is accepted by NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) workshop
