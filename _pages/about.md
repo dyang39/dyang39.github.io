@@ -25,11 +25,15 @@ Experience
 
 News:
 ======
-∙ [03/2024] Our paper [IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues](https://sigir-2024.github.io/program_papers.html) is accepted by SIGIR 2024
+∙ [03/2024] Our paper [A Bespoke Question Intent Taxonomy for E-commerce](https://sigir-ecom.github.io/index.html) is accepted by SIGIR eCom 2024
+
+∙ [03/2024] Our paper [IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues](https://arxiv.org/abs/2405.13021) is accepted by SIGIR 2024
 
 ∙ [12/2023] Our paper [Inner Monologue Multi-Modal Optimization](https://arxiv.org/abs/2308.09970) is accepted by AAAI 2024
 
 ∙ [10/2023] Our paper [Learning Inner Monologue](https://openreview.net/forum?id=hCZGKGZ802) is accepted by NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) workshop
+
+∙ [06/2023] I will work as an Applied Scientist Intern at Amazon during this summer
 
 ∙ [03/2023] I am excited to be working as a part-time AI resident at [Mineral](https://mineral.ai/)
 
