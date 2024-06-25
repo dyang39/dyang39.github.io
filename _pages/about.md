@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD student at [University of California, Santa Cruz](https://www.ucsc.edu/) working with [Prof. Yi Zhang](https://sites.google.com/ucsc.edu/yizhang/). I received my Master's degree in [Natural Language Processing](https://grad.soe.ucsc.edu/nlp) and Bachelor's degree in Computer Science and Statistics from UC Santa Cruz. I'm fortunate to have joined [Prof. Xin Eric Wang](https://eric-xw.github.io/)'s lab to focus on the NLP research. 
+I'm currently a PhD student at [University of California, Santa Cruz] working with [Prof. Yi Zhang](https://sites.google.com/ucsc.edu/yizhang/). I received my Master's degree in [Natural Language Processing] and Bachelor's degree in Computer Science and Statistics from UC Santa Cruz. I'm fortunate to have joined [Prof. Xin Eric Wang](https://eric-xw.github.io/)'s lab to focus on the NLP research. 
 
 
 Research Interest
@@ -45,4 +45,4 @@ News:
 Services:
 ======
 **Teaching assistant**: Programming Abstractions 2022, Advanced Topics in Natural Language Processing 2023 \
-**Reviewer**: NeurIPS 2023, TheWebConf 2024, CVPR 2024
+**Reviewer**: NeurIPS 2023, TheWebConf 2024, CVPR 2024, ICML 2024
