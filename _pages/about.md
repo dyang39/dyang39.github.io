@@ -25,7 +25,9 @@ Experience
 
 News:
 ======
-∙ [03/2024] Our paper [A Bespoke Question Intent Taxonomy for E-commerce](https://sigir-ecom.github.io/index.html) is accepted by SIGIR eCom 2024
+∙ [03/2024] Our paper [An interpretable answer scoring framework](https://www.amazon.science/publications/an-interpretable-answer-scoring-framework) is accepted by [SIGIR Generative-IR](https://coda.io/@sigir/gen-ir-24) 2024
+
+∙ [03/2024] Our paper [A Bespoke Question Intent Taxonomy for E-commerce](https://www.amazon.science/publications/a-bespoke-question-intent-taxonomy-for-e-commerce) is accepted by [SIGIR eCom](https://sigir-ecom.github.io/index.html) 2024
 
 ∙ [03/2024] Our paper [IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues](https://arxiv.org/abs/2405.13021) is accepted by SIGIR 2024
 
