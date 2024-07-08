@@ -83,7 +83,7 @@ author:
   name             : "Diji Yang"
   avatar           : "Cropped Circle.png"
   bio              : "University of California Santa Cruz"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rx6WGY4AAAAJ&hl=en&oi=ao"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "dyang39"
+  github           : #"dyang39"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/diji-yang-405a49211/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
