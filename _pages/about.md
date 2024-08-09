@@ -80,7 +80,7 @@ NeurIPS workshop on Socially Responsible Language Modelling Research <br />
 
 **Cpl: Counterfactual prompt learning for vision and language models** <br />
 Xuehai He, **Diji Yang**, Weixi Feng, Tsu-Jui Fu, Arjun Akula, Varun Jampani, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang <br /> 
-SIGIR 2024 workshop on eCommerce <br />
+EMNLP 2022 <br />
 [Paper](https://arxiv.org/pdf/2210.10362) <br />
 
 
