@@ -25,6 +25,8 @@ Experience
 
 News:
 ======
+∙ [10/2024] Our paper [Right this way: Can VLMs Guide Us to See More to Answer Questions?](https://arxiv.org/pdf/2411.00394) is accepted by NeurIPS 2024
+
 ∙ [07/2024] Slides, paper, and more resources covered in our SIGIR 2024 tutorial **[tools-meet-llm](https://rulegreen.github.io/services/tools-meet-llm/)** are available online
 
 ∙ [03/2024] Our paper [IM-RAG: Inner Monologue Retrieval-Augmented Generation](https://arxiv.org/abs/2405.13021) is accepted by SIGIR 2024
@@ -53,6 +55,11 @@ Services:
 
 Publication
 ======
+**Right this way: Can VLMs Guide Us to See More to Answer Questions?** <br />
+Li Liu, <ins>Diji Yang</ins>, Sijia Zhong, Kalyana Suma Sree Tholeti, Lei Ding, Yi Zhang, Leilani H Gilpin <br /> 
+NeurIPS 2024 <br /> 
+[Paper](https://arxiv.org/pdf/2411.00394) [Dataset](https://huggingface.co/datasets/LeoLee7/Directional_Guidance) <br />
+
 **IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues** <br />
 <ins>Diji Yang</ins>, Jinmeng Rao, Kezhen Chen, Xiaoyuan Guo, Yawen Zhang, Jie Yang, Yi Zhang <br /> 
 SIGIR 2024 <br /> 
