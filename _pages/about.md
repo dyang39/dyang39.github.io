@@ -67,12 +67,12 @@ Services
 
 Publication
 ======
-**Reinforcing Thinking through Reasoning-Enhanced Reward Models**
+**Reinforcing Thinking through Reasoning-Enhanced Reward Models** <br />
 <ins>Diji Yang</ins>, Linda Zeng, Kezhen Chen, Yi Zhang <br /> 
 Preprint 2024 <br /> 
 [Paper](https://arxiv.org/abs/2501.01457)
 
-**Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution**
+**Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution** <br />
 Timothy Wei, Hsien Xin Peng, Elaine Xu, Bryan Zhao, Lei Ding, <ins>Diji Yang</ins> <br /> 
 Video-Language Models workshop at NeurIPS 2024 <br /> 
 [Paper](https://arxiv.org/abs/2501.01457)
