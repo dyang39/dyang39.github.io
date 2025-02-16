@@ -8,22 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD student at the [University of California Santa Cruz](https://www.ucsc.edu/) working with [Prof. Yi Zhang](https://sites.google.com/ucsc.edu/yizhang/). I received my Bachelor's degree in Computer Science and Statistics from UC Santa Cruz. I'm fortunate to have joined [Prof. Xin Eric Wang](https://eric-xw.github.io/)'s lab to focus on the NLP research. 
+I'm currently a PhD candidate at the [University of California Santa Cruz](https://www.ucsc.edu/) working with [Prof. Yi Zhang](https://sites.google.com/ucsc.edu/yizhang/). I received my Bachelor's degree in Computer Science with a Statistics minor from UC Santa Cruz. I'm fortunate to have joined [Prof. Xin Eric Wang](https://eric-xw.github.io/)'s lab to focus on the NLP research. 
 
 
 Research Interest
 ======
-My research interest lies at the intersection of Natural Language Processing and Multimodal Information Retrieval. I work on generative language models, knowledge reasoning, and applications such as multimodal question-answering and task-oriented dialogue systems.
+My research interest lies at the intersection of Natural Language Processing and Multimodal Information Retrieval. I work on generative language models, knowledge reasoning, and applications such as multimodal question-answering and task-oriented dialogue systems. Recently, I have focused on Retrieval Augmented Generation (RAG) and LLM agents.
 
 
 Experience
 ======
-∙ Applied Scientist Intern at Amazon Alexa\
-∙ AI Resident at [Mineral Earth Sciences](https://mineral.ai/), an Alphabet company, [previous Google[X] project](https://x.company/projects/mineral/), 2023\
+∙ Student Researcher at Google DeepMind 2025 \
+∙ Applied Scientist Intern at Amazon Alexa 2023 \
+∙ AI Resident at [Mineral Earth Sciences](https://mineral.ai/), an Alphabet company, [previous Google[X] project](https://x.company/projects/mineral/), 2023, 2024 \
 ∙ Research Assistant for Natural Language Processing, 2021
 
 
-News:
+News
 ======
 ∙ [10/2024] Our paper [Right this way: Can VLMs Guide Us to See More to Answer Questions?](https://arxiv.org/pdf/2411.00394) is accepted by NeurIPS 2024
 
@@ -48,13 +49,34 @@ News:
 ∙ [07/2021] I will (re)join UCSC as a Graduate student
 
 
-Services:
+
+Services
 ======
-**Teaching assistant**: Programming Abstractions 2022, Advanced Topics in Natural Language Processing 2023 \
-**Reviewer**: NeurIPS 2023, TheWebConf 2024, CVPR 2024, ICML 2024
+**Reviewer**: <br />
+  NeurIPS 2023 <br />
+  TheWebConf (WWW) 2024, CVPR 2024, ICML 2024, NeurIPS 2024 <br />
+  ECIR 2025, ICLR 2025 <br />
+**Event Organizer**: <br />
+  Co-organized the [tools-meet-llm](https://rulegreen.github.io/services/tools-meet-llm/) tutorial at ACM SIGIR 2024. <br />
+  Co-chair and organizer of the 1st [AI Student Research Symposium](https://sites.google.com/ucsc.edu/ai-student-research-symposium) at UC Santa Cruz. <br />
+**Teaching assistant**: <br />
+  Programming Abstractions 2022 <br />
+  Advanced Topics in Natural Language Processing 2023 <br />
+  Applied Machine Learning: Deep Learning 2023, 2024 <br />
+
 
 Publication
 ======
+**Reinforcing Thinking through Reasoning-Enhanced Reward Models**
+<ins>Diji Yang</ins>, Linda Zeng, Kezhen Chen, Yi Zhang <br /> 
+Preprint 2024 <br /> 
+[Paper](https://arxiv.org/abs/2501.01457)
+
+**Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution**
+Timothy Wei, Hsien Xin Peng, Elaine Xu, Bryan Zhao, Lei Ding, <ins>Diji Yang</ins> <br /> 
+Video-Language Models workshop at NeurIPS 2024 <br /> 
+[Paper](https://arxiv.org/abs/2501.01457)
+
 **Right this way: Can VLMs Guide Us to See More to Answer Questions?** <br />
 Li Liu, <ins>Diji Yang</ins>, Sijia Zhong, Kalyana Suma Sree Tholeti, Lei Ding, Yi Zhang, Leilani H Gilpin <br /> 
 NeurIPS 2024 <br /> 
