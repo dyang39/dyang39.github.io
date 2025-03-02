@@ -55,7 +55,7 @@ Services
 **Reviewer**: <br />
   NeurIPS 2023 <br />
   TheWebConf (WWW) 2024, CVPR 2024, ICML 2024, NeurIPS 2024 <br />
-  ECIR 2025, ICLR 2025 <br />
+  ECIR 2025, ICLR 2025, Knowledge-Based Systems <br />
 **Event Organizer**: <br />
   Co-organized the [tools-meet-llm](https://rulegreen.github.io/services/tools-meet-llm/) tutorial at ACM SIGIR 2024. <br />
   Co-chair and organizer of the 1st [AI Student Research Symposium](https://sites.google.com/ucsc.edu/ai-student-research-symposium) at UC Santa Cruz. <br />
@@ -67,6 +67,11 @@ Services
 
 Publication
 ======
+**Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals** <br />
+Linda Zeng, Rithwik Gupta, Divij Motwani, <ins>Diji Yang</ins>, Yi Zhang <br /> 
+Preprint 2025 <br /> 
+[Paper](https://arxiv.org/abs/2502.16101) [Dataset](https://huggingface.co/datasets/UCSC-IRKM/RAGuard) <br /> 
+
 **Reinforcing Thinking through Reasoning-Enhanced Reward Models** <br />
 <ins>Diji Yang</ins>, Linda Zeng, Kezhen Chen, Yi Zhang <br /> 
 Preprint 2024 <br /> 
