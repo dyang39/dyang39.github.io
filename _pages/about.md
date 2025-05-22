@@ -26,6 +26,10 @@ Experience
 
 News
 ======
+∙ [04/2025] Our paper [Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing](https://arxiv.org/abs/2505.02811) is accepted by SIGIR 2025
+
+∙ [02/2025] I am excited to be working as a Student Researcher at Google DeepMind
+
 ∙ [10/2024] Our paper [Right this way: Can VLMs Guide Us to See More to Answer Questions?](https://arxiv.org/pdf/2411.00394) is accepted by NeurIPS 2024
 
 ∙ [07/2024] Slides, paper, and more resources covered in our SIGIR 2024 tutorial **[tools-meet-llm](https://rulegreen.github.io/services/tools-meet-llm/)** are available online
@@ -55,7 +59,7 @@ Services
 **Reviewer**: <br />
   NeurIPS 2023 <br />
   TheWebConf (WWW) 2024, CVPR 2024, ICML 2024, NeurIPS 2024 <br />
-  ECIR 2025, ICLR 2025, Knowledge-Based Systems <br />
+  ECIR 2025, ICLR 2025, ICML 2025, SIGIR 2025, Knowledge-Based Systems <br />
 **Event Organizer**: <br />
   Co-organized the [tools-meet-llm](https://rulegreen.github.io/services/tools-meet-llm/) tutorial at ACM SIGIR 2024. <br />
   Co-chair and organizer of the 1st [AI Student Research Symposium](https://sites.google.com/ucsc.edu/ai-student-research-symposium) at UC Santa Cruz. <br />
@@ -67,6 +71,11 @@ Services
 
 Publication
 ======
+**Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing** <br />
+<ins>Diji Yang</ins>, Linda Zeng, Jinmeng Rao, Yi Zhang <br /> 
+SIGIR 2025 <br /> 
+[Paper](https://arxiv.org/abs/2505.02811) [Code](https://github.com/ucscirkm/SIM-RAG) <br /> 
+
 **Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals** <br />
 Linda Zeng, Rithwik Gupta, Divij Motwani, <ins>Diji Yang</ins>, Yi Zhang <br /> 
 Preprint 2025 <br /> 
@@ -80,7 +89,7 @@ Preprint 2024 <br />
 **Dual-Model Distillation for Efficient Action Classification with Hybrid Edge-Cloud Solution** <br />
 Timothy Wei, Hsien Xin Peng, Elaine Xu, Bryan Zhao, Lei Ding, <ins>Diji Yang</ins> <br /> 
 Video-Language Models workshop at NeurIPS 2024 <br /> 
-[Paper](https://arxiv.org/abs/2501.01457)
+[Paper](https://arxiv.org/pdf/2410.12165)
 
 **Right this way: Can VLMs Guide Us to See More to Answer Questions?** <br />
 Li Liu, <ins>Diji Yang</ins>, Sijia Zhong, Kalyana Suma Sree Tholeti, Lei Ding, Yi Zhang, Leilani H Gilpin <br /> 
@@ -115,7 +124,7 @@ NeurIPS workshop on Socially Responsible Language Modelling Research <br />
 **Cpl: Counterfactual prompt learning for vision and language models** <br />
 Xuehai He, <ins>Diji Yang</ins>, Weixi Feng, Tsu-Jui Fu, Arjun Akula, Varun Jampani, Pradyumna Narayana, Sugato Basu, William Yang Wang, Xin Eric Wang <br /> 
 EMNLP 2022 <br />
-[Paper](https://arxiv.org/pdf/2210.10362) <br />
+[Paper](https://arxiv.org/pdf/2210.10362) [Code](https://github.com/eric-ai-lab/CPL) <br />
 
 
 
