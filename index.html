@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage | Diji Yang</title>
+    <link rel="icon" href="images/site.png" type="image/png">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <!-- Top Banner with Navigation Links -->
+    <header class="banner">
+        <nav class="navbar">
+        <a href="#bio" class="nav-link">Bio</a>
+        <a href="#news" class="nav-link">News</a>
+        <a href="#experience" class="nav-link">Experience</a>
+        <a href="#services" class="nav-link">Services</a>
+        <a href="#publications" class="nav-link">Publications</a>
+        <a href="#connected" class="nav-link">Get Connected</a>
+        <!--
+        <a href="index.html" class="nav-link" target="_blank">Home</a>
+        <a href="teaching.html" class="nav-link" target="_blank">Teaching</a>
+        -->
+        </nav>
+    </header>
+
+    <!-- Main Two-Column Layout -->
+    <div class="main-layout">
+        <!-- Sidebar: Personal Info -->
+        <aside class="sidebar">
+            <div class="profile-photo">
+                <img src="images/profile.jpg" alt="Profile Picture">
+            </div>
+            <div class="sidebar-info">
+                <h2>Diji Yang</h2>
+                <p>University of California Santa Cruz<br>
+                Email: dyang39 [at] ucsc [dot] edu</p>
+                <div class="sidebar-links">
+                    <a href="https://www.linkedin.com/in/diji-yang-405a49211/" target="_blank" title="LinkedIn">
+                        <i class="fab fa-linkedin fa-lg"></i>
+                    </a>
+                    <a href="https://scholar.google.com/citations?hl=en&user=rx6WGY4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank" title="Google Scholar">
+                        <i class="fas fa-graduation-cap fa-lg"></i>
+                    </a>
+                    <a href="https://github.com/dyang39" target="_blank" title="Github">
+                        <i class="fab fa-github fa-lg"></i>
+                    </a>
+                </div>
+            </div>
+        </aside>
+        <!-- Main Content -->
+        <main class="main-content">
+
+
+            <!-- Brief Intro Paragraph -->
+            <section id="bio" class="section">
+                <h2>Bio</h2>
+                <p>
+                    I am a PhD candidate at the <a href="https://www.ucsc.edu/" target="_blank">UC Santa Cruz</a> working with Prof. <a href="https://sites.google.com/ucsc.edu/yizhang/" target="_blank">Yi Zhang</a>. I received my Bachelor's degree in Computer Science with a Statistics minor from UC Santa Cruz. I'm currently a Student Researcher at Google DeepMind.<br><br>
+                    My research aims to empower AI systems with advanced reasoning capabilities. I work at the intersection of the following topics:<br>
+                    &nbsp;&nbsp;• <b>Complex Planning and Reasoning</b>: My research aims to solve real-world problems, which often require multi-step reasoning and actions.<br>
+                    &nbsp;&nbsp;• <b>Multi-agent Collaboration</b>: I work on MAS (multi-agent systems), so my study also includes how agents coordinate, communicate, and share information.<br>
+                    &nbsp;&nbsp;• <b>Information Retrieval</b>: I conduct research on, but not limited to, RAG with LLM; broadly speaking, I care about Retrieval-Augmented AI.<br>
+                </p>
+            </section>
+
+            <!-- News Section -->
+            <section class="section">
+                <h2>News</h2>
+                <div id="news">
+                    <ul>
+                        <li><span class="news-timestamp">[04/2025]</span><span class="news-content">Our paper <a href="https://arxiv.org/abs/2505.02811" target="_blank">Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing</a> is accepted by SIGIR 2025</span></li>
+                        <li><span class="news-timestamp">[02/2025]</span><span class="news-content">I am excited to be working as a Student Researcher at Google DeepMind</span></li>
+                        <li><span class="news-timestamp">[10/2024]</span><span class="news-content">Our paper <a href="https://arxiv.org/pdf/2411.00394" target="_blank">Right this way: Can VLMs Guide Us to See More to Answer Questions?</a> is accepted by NeurIPS 2024</span></li>
+                        <li><span class="news-timestamp">[07/2024]</span><span class="news-content">Slides, paper, and more resources covered in our SIGIR 2024 tutorial <b><a href="https://rulegreen.github.io/services/tools-meet-llm/" target="_blank">tools-meet-llm</a></b> are available online</span></li>
+                        <li><span class="news-timestamp">[03/2024]</span><span class="news-content">Our paper <a href="https://arxiv.org/abs/2405.13021" target="_blank">IM-RAG: Inner Monologue Retrieval-Augmented Generation</a> is accepted by SIGIR 2024</span></li>
+                        <li><span class="news-timestamp">[03/2024]</span><span class="news-content">Our paper <a href="https://www.amazon.science/publications/an-interpretable-answer-scoring-framework" target="_blank">An interpretable answer scoring framework</a> is accepted by <a href="https://coda.io/@sigir/gen-ir-24" target="_blank">SIGIR Generative-IR</a> 2024</span></li>
+                        <li><span class="news-timestamp">[03/2024]</span><span class="news-content">Our paper <a href="https://www.amazon.science/publications/a-bespoke-question-intent-taxonomy-for-e-commerce" target="_blank">E-commerce Question Intent Taxonomy</a> is accepted by <a href="https://sigir-ecom.github.io/index.html" target="_blank">SIGIR eCom</a> 2024</span></li>
+                        <li><span class="news-timestamp">[12/2023]</span><span class="news-content">Our paper <a href="https://arxiv.org/abs/2308.09970" target="_blank">IMMO: Inner Monologue Multi-Modal Optimization</a> is accepted by AAAI 2024</span></li>
+                        <li><span class="news-timestamp">[10/2023]</span><span class="news-content">Our paper <a href="https://openreview.net/forum?id=hCZGKGZ802" target="_blank">Learning Inner Monologue</a> is accepted by NeurIPS 2023 Socially Responsible Language Modelling Research (SoLaR) workshop</span></li>
+                        <li><span class="news-timestamp">[06/2023]</span><span class="news-content">I will work as an Applied Scientist Intern at Amazon during this summer</span></li>
+                        <li><span class="news-timestamp">[03/2023]</span><span class="news-content">I am excited to be working as a part-time AI resident at <a href="https://mineral.ai/" target="_blank">Mineral</a></span></li>
+                        <li><span class="news-timestamp">[09/2022]</span><span class="news-content">Our paper <a href="https://arxiv.org/abs/2210.10362" target="_blank">CPL</a> is accepted by EMNLP 2022</span></li>
+                        <li><span class="news-timestamp">[07/2021]</span><span class="news-content">I will (re)join UCSC as a Graduate student</span></li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Experience Section -->
+            <section id="experience" class="section">
+                <h2>Experience</h2>
+                <ul>
+                    <li><b>Google DeepMind</b>: Student Researcher, 2025</li>
+                    <li><b>Amazon Alexa</b>: Applied Scientist Intern, 2023</li>
+                    <li><b>Mineral.ai</b>, an Alphabet company, previous <a href="https://x.company/projects/mineral/" target="_blank">Google[X] project</a>: AI Resident, 2023, 2024</li>
+                </ul>
+            </section>
+
+            <!-- Services Section -->
+            <section id="services" class="section">
+                <h2>Services</h2>
+                <p><b>Reviewer</b>: <br />
+                  NeurIPS 2023 <br />
+                  TheWebConf (WWW) 2024, CVPR 2024, ICML 2024, NeurIPS 2024 <br />
+                  ECIR 2025, ICLR 2025, ICML 2025, SIGIR 2025, Knowledge-Based Systems</p>
+                
+                <p><b>Event Organizer</b>: <br />
+                  Co-organized the <a href="https://rulegreen.github.io/services/tools-meet-llm/" target="_blank">tools-meet-llm</a> tutorial at ACM SIGIR 2024. <br />
+                  Co-chair and organizer of the 1st <a href="https://sites.google.com/ucsc.edu/ai-student-research-symposium" target="_blank">AI Student Research Symposium</a> at UC Santa Cruz.</p>
+                
+                <p><b>Teaching assistant</b>: <br />
+                  Programming Abstractions 2022 <br />
+                  Advanced Topics in Natural Language Processing 2023 <br />
+                  Applied Machine Learning: Deep Learning 2023, 2024</p>
+            </section>
+
+            <!-- Publications Section -->
+            <section class="section" id="publications">
+                <h2>Selected Publications</h2>
+                <p>
+                    Full publication list can be found on 
+                    <a href="https://scholar.google.com/citations?hl=en&user=rx6WGY4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
+                        Google Scholar
+                    </a>
+                    page. (* indicates equal contribution).
+                </p>
+                <div class="pub-list">
+                    <!-- Publication 1 -->
+                    <div class="pub-item">
+                        <div class="pub-img">
+                            <a href="#"><img src="projects/GenIR/GenIR.png" alt="Publication Image"></a>
+                        </div>
+                        <div class="pub-info">
+                            <div class="pub-title"><b>GenIR: Generative Visual Feedback for Mental Image Retrieval</b></div>
+                            <div class="pub-authors"><b>Diji Yang*</b>, Minghao Liu*, Chung-Hsiang Lo, Yi Zhang, James Davis</div>
+                            <div class="pub-venue"><b>arXiv:2506.06220</b> <a href="https://arxiv.org/abs/2506.06220" target="_blank">[Paper]</a> <a href="https://github.com/mikelmh025/generative_ir" target="_blank">[Code]</a></div>
+                        </div>
+                    </div>
+                    <hr class="pub-divider">
+                    <!-- Publication 2: SIM-RAG -->
+                    <div class="pub-item">
+                        <div class="pub-img">
+                            <a href="#"><img src="projects/SIM-RAG/SIM-RAG.png" alt="Publication Image"></a>
+                        </div>
+                        <div class="pub-info">
+                            <div class="pub-title"><b>Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing</b></div>
+                            <div class="pub-authors"><b>Diji Yang</b>, Linda Zeng, Jinmeng Rao, Yi Zhang</div>
+                            <div class="pub-venue"><b>SIGIR 2025</b> <a href="https://arxiv.org/abs/2505.02811" target="_blank">[Paper]</a> <a href="https://github.com/ucscirkm/SIM-RAG" target="_blank">[Code]</a></div>
+                        </div>
+                    </div>
+                    <hr class="pub-divider">
+                    <!-- Publication: Guidance -->
+                    <div class="pub-item">
+                        <div class="pub-img">
+                            <a href="#"><img src="projects/Guidance/Guidance.png" alt="Publication Image"></a>
+                        </div>
+                        <div class="pub-info">
+                            <div class="pub-title"><b>Right this way: Can VLMs Guide Us to See More to Answer Questions?</b></div>
+                            <div class="pub-authors">Li Liu*, <b>Diji Yang*</b>, Sijia Zhong, Kalyana Suma Sree Tholeti, Lei Ding, Yi Zhang, Leilani H. Gilpin
+                            </div>
+                            <div class="pub-venue"><b>NeurIPS 2024</b> <a href="https://arxiv.org/abs/2411.00394" target="_blank">[Paper]</a> <a href="https://github.com/LeoLee7/Directional_guidance" target="_blank">[Code]</a> <a href="https://huggingface.co/datasets/LeoLee7/Directional_Guidance" target="_blank">[Dataset]</a></div>
+                        </div>
+                    </div>
+                    <hr class="pub-divider">
+                    <!-- Publication 3: IM-RAG -->
+                    <div class="pub-item">
+                        <div class="pub-img">
+                            <a href="#"><img src="projects/IM-RAG/IM-RAG.png" alt="Publication Image"></a>
+                        </div>
+                        <div class="pub-info">
+                            <div class="pub-title"><b>IM-RAG: Multi-Round Retrieval-Augmented Generation Through Learning Inner Monologues</b></div>
+                            <div class="pub-authors"><b>Diji Yang</b>, Jinmeng Rao, Kezhen Chen, Xiaoyuan Guo, Yawen Zhang, Jie Yang, Yi Zhang</div>
+                            <div class="pub-venue"><b>SIGIR 2024</b> <a href="https://dl.acm.org/doi/pdf/10.1145/3626772.3657760" target="_blank">[Paper]</a></div>
+                        </div>
+                    </div>
+                    <hr class="pub-divider">
+                    <!-- Publication 4: IMMO -->
+                    <div class="pub-item">
+                        <div class="pub-img">
+                            <a href="#"><img src="projects/IMMO/IMMO.png" alt="Publication Image"></a>
+                        </div>
+                        <div class="pub-info">
+                            <div class="pub-title"><b>Tackling vision language tasks through learning inner monologues</b></div>
+                            <div class="pub-authors"><b>Diji Yang</b>, Jinmeng Rao, Kezhen Chen, Xiaoyuan Guo, Yawen Zhang, Jie Yang, Yi Zhang</div>
+                            <div class="pub-venue"><b>AAAI 2024</b> <a href="https://arxiv.org/abs/2308.09970" target="_blank">[Paper]</a></div>
+                        </div>
+                    </div>
+                    <hr class="pub-divider">
+                </div>
+            </section>
+
+            <!-- Get Connected Section -->
+            <section id="connected" class="section">
+                <h2>Get Connected</h2>
+                
+                <p>
+                    I am always interested in working with new collaborators from all backgrounds on research ideas and/or impactful projects related to my areas of interest. That being said, I commit the sufficient time to each project I take on, so my availability for new projects may depends on current commitments.
+                </p>
+                
+                <p> 
+                    If you’re interested in collaborating, feel free to send me an email to find a time to chat!
+                </p>
+                <!--
+                <p><b>Research collaboration</b>:
+                <p><b>Off-work projects</b> </p>
+                -->
+            </section>
+
+            <!--
+            <div align="center">
+                <a href="https://clustrmaps.com/site/1c6jq" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=m&d=_CXhAcDry6T82Cw0i4qr09uCUCzwsnkH5xGED2O6D_M" /></a>
+            </div>
+            -->
+            
+            <!-- Google Analytics -->
+            <!-- Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-FW4443SY57"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-FW4443SY57');
+            </script>
+            <!-- End Google Analytics -->
+        </main>
+    </div>
+</body>
+</html>

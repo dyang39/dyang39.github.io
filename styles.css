@@ -1,0 +1,397 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Source Sans Pro*/
+body {
+    font-family: 'Times New Roman', 'Merriweather', Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+/* Top Banner / Navigation */
+.banner {
+    background: linear-gradient(to right, #2c3e50, #3498db);
+    padding: 10px 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.navbar .nav-link {
+    margin: 0 40px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+    color: #ecf0f1;
+}
+
+/* Two-Column Main Layout */
+.main-layout {
+    display: flex;
+    align-items: flex-start;
+    max-width: 1200px;
+    margin: 40px auto 0 auto;
+    padding: 0 8px;
+}
+
+/* Sidebar Minimalist style */
+.sidebar {
+    width: 280px;
+    min-width: 220px;
+    max-width: 320px;
+    position: sticky;
+    top: 40px;
+    align-self: flex-start;
+    background: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 32px 0 24px 0;
+    margin-right: 0px;
+    text-align: left;
+    z-index: 10;
+}
+
+.sidebar .profile-photo img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 18px;
+}
+
+.sidebar-info h2 {
+    font-size: 1.5rem;
+    margin-bottom: 6px;
+    color: #222;
+    font-weight: 700;
+    text-align: left;
+}
+
+.sidebar-info p {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 18px;
+    text-align: left;
+}
+
+.sidebar-links {
+    text-align: left;
+    margin-top: 10px;
+}
+
+.sidebar-links a {
+    color: gray;
+    margin: 0 12px;
+    font-size: 24px;
+    display: inline-block;
+    transition: color 0.2s;
+}
+
+.sidebar-links a:visited {
+    color: gray;
+}
+
+.sidebar-links a:hover {
+    color: #3498db;
+}
+
+.sidebar-links i {
+    margin-right: 0;
+}
+
+.main-content {
+    flex: 1;
+    min-width: 0;
+}
+
+/* Adaptive text content width */
+.intro-container {
+    display: block;
+    padding: 0;
+    max-width: 100%;
+    margin: 0;
+    gap: 0;
+}
+
+.intro-text {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.intro-text h1 {
+    font-size: 2.5rem;
+    margin: 0;
+    color: #2c3e50;
+}
+
+.intro-text h2 {
+    font-size: 1.5rem;
+    margin: 0;
+    color: #34495e;
+    font-weight: 500;
+}
+
+.intro-text p {
+    font-size: 1.2rem;
+    margin: 0;
+    color: #7f8c8d;
+}
+
+.social-icons {
+    margin-top: 15px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    font-size: 1.5rem;
+    color: #1DA1F2; /* Twitter's official color */
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #0d8ddf; /* Slightly darker blue for hover effect */
+}
+
+.section h2 {
+    margin-bottom: 15px;
+    padding-bottom: 6px;
+    border-bottom: 1.5px solid #ccc;  /* Gray horizontal line */
+}
+
+.section p {
+    line-height: 1.6; /* Adjust line height for better readability */
+    margin-bottom: 15px; /* Space between paragraphs */
+}
+
+.section details {
+    margin-bottom: 20px; /* Space between details sections */
+}
+
+.school-info {
+    margin-left: auto; /* Push this div to the right */
+    text-align: right;
+}
+
+/* Section Styling */
+.section {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    margin-bottom: 15px;
+    color: #105193;
+}
+
+.pub-container {
+    display: flex;              /* Use flexbox for layout */
+    flex-direction: column;     /* Arrange items in a column */
+    gap: 20px;                 /* Space between items */
+}
+
+.pub-item {
+    display: flex;             /* Use flex for the image and text */
+    align-items: center;       /* Vertically center items */
+}
+
+.pub-item img {
+    margin-right: 15px;       /* Space between image and text */
+}
+
+
+.recent-works {
+    display: flex; /* Use flexbox for columns */
+    align-items: center; /* Center items vertically */
+    gap: 10px; /* Space between the columns */
+}
+
+.student-container {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+}
+
+.students-row {
+    display: flex; /* Use flexbox for columns */
+    align-items: center; /* Center items vertically */
+    gap: 10px; /* Space between the columns */
+}
+
+.student {
+    flex: 1;
+    align-items: center; /* Center items vertically */
+    max-width: 800px;
+    margin: 0 auto;
+    gap: 10px;
+}
+
+.duration {
+    margin-left: auto; /* Push this div to the right */
+    text-align: right;
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #FF6347;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: #FF7F50;
+    color: white;
+}
+
+/* News Section Styling */
+#news {
+    max-height: 280px;
+    overflow-y: auto;
+    padding-right: 20px;
+}
+
+#news::-webkit-scrollbar {
+    width: 8px;
+}
+
+#news::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+#news::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+#news::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+#news ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#news li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 8px;
+}
+
+.news-timestamp {
+    display: inline-block;
+    min-width: 90px;
+    max-width: 90px;
+    font-weight: bold;
+    color: #105193;
+    flex-shrink: 0;
+}
+
+.news-content {
+    display: inline-block;
+    word-break: break-word;
+    margin-left: 8px;
+}
+
+/* Publications Section */
+.pub-list {
+    margin-top: 20px;
+}
+
+.pub-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 18px;
+    padding: 18px 0 10px 0;
+}
+
+.pub-img img {
+    width: 120px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 6px;
+    background: #eee;
+    border: 1px solid #ddd;
+}
+
+.pub-info {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+.pub-authors {
+    color: #444;
+    font-size: 1rem;
+    margin-bottom: 4px;
+}
+
+.pub-venue {
+    font-size: 1rem;
+    color: #105193;
+}
+
+.pub-venue a {
+    color: #105193;
+    text-decoration: underline;
+    font-size: 0.98em;
+}
+
+.pub-divider {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin: 0 0 0 0;
+}
+
+a:visited {
+    color: #0000EE;
+}
+
+@media (max-width: 900px) {
+  .banner {
+    display: none; /* hide nav bar */
+  }
+  .main-layout {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .sidebar {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    margin-right: 0;
+    margin-bottom: 20px;
+    position: static;
+    top: auto;
+    box-shadow: none;
+  }
+  .main-content {
+    width: 100%;
+    min-width: 0;
+  }
+}
