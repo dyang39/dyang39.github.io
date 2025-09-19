@@ -262,6 +262,22 @@ footer {
     color: white;
 }
 
+/* Last Updated Time Styling */
+.update-time-footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #f8f9fa;
+    border-top: 1px solid #e9ecef;
+    margin-top: 20px;
+}
+
+.update-time-footer p {
+    margin: 0;
+    font-size: 0.8rem;
+    color: #6c757d;
+    font-style: italic;
+}
+
 /* News Section Styling */
 #news {
     max-height: 280px;
