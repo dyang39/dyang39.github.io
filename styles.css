@@ -278,6 +278,39 @@ footer {
     font-style: italic;
 }
 
+/* Simple Dropdown Styling */
+.simple-dropdown {
+    display: inline-block;
+}
+
+.simple-dropdown summary {
+    cursor: pointer;
+    color: #105193;
+    margin-left: 5px;
+    margin-top: none;
+    /*list-style: none;*/
+}
+
+.simple-dropdown summary::-webkit-details-marker {
+    display: none;
+}
+
+.mentor-list {
+    font-size: 0.9em;
+    margin-top: 8px;
+    padding-left: 2em;
+}
+
+.mentor-list div {
+    margin-bottom: 3px;
+}
+
+.mentor-list a {
+    color: #0000EE;
+    text-decoration: none;
+}
+
+
 /* News Section Styling */
 #news {
     max-height: 280px;
@@ -373,7 +406,7 @@ footer {
 }
 
 .pub-venue a {
-    color: #105193;
+    color: #0000EE;
     text-decoration: underline;
     font-size: 0.98em;
 }
@@ -385,7 +418,7 @@ footer {
 }
 
 a:visited {
-    color: #0000EE;
+    color: #105193;
 }
 
 @media (max-width: 900px) {
