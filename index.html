@@ -73,6 +73,7 @@
                 <h2>News</h2>
                 <div id="news">
                     <ul>
+                        <li><span class="news-timestamp">[11/2025]</span><span class="news-content">We will present our DeepVideoResearch, the winning system of <a href="https://agi-lti.github.io/MMU-RAGent/" target="_blank">MMU-RAG Competition</a> at NeurIPS 2025!</span></li>
                         <li><span class="news-timestamp">[10/2025]</span><span class="news-content">I will attend and give a oral presentation at <a href="https://baylearn-org.github.io/www/index.html" target="_blank">BayLearn 2025</a></span></li>
                         <li><span class="news-timestamp">[09/2025]</span><span class="news-content">Three papers accepted to NeurIPS 2025! <a href="https://lnkd.in/p/g7wPxiKi" target="_blank">[LinkedIn post for details]</a></span></li>
                         <li><span class="news-timestamp">[09/2025]</span><span class="news-content">I will be teaching <a href="https://courses.engineering.ucsc.edu/courses/nlp255" target="_blank">NLP 255</a> at UC Santa Cruz this Fall</span></li>
@@ -155,13 +156,29 @@
             <section class="section" id="publications">
                 <h2>Selected Publications</h2>
                 <p>
+                    <sup>*</sup>Equal contribution, <sup>&dagger;</sup>Co-advising.
+                </p>
+                <p>
                     Full publication list can be found on 
                     <a href="https://scholar.google.com/citations?hl=en&user=rx6WGY4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">
                         Google Scholar
                     </a>
-                    page. (* equal contribution, † co-advisor).
+                    page. 
                 </p>
                 <div class="pub-list">
+                    <!-- PriorRec -->
+                    <div class="pub-item">
+                        <div class="pub-img">
+                            <a href="#"><img src="projects/PriorRec/PriorRec.png" alt="Publication Image"></a>
+                        </div>
+                        <div class="pub-info">
+                            <div class="pub-title"><b>Don’t Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding</b></div>
+                            <div class="pub-authors">Yunkai Zhang, Qiang Zhang, Feng Lin, Ruizhong Qiu, Hanchao Yu, Jiayi Liu, Yinglong Xia, Zhuoran Yu, Zeyu Zheng, <b>Diji Yang</b></div>
+                            <div class="pub-venue"><b>ArXiv 2025</b> <a href="https://arxiv.org/pdf/2511.10492" target="_blank">[Paper]</a> <a href="https://github.com/zhykoties/Multi-Head-Recommendation-with-Human-Priors" target="_blank">[Code]</a></div>
+                        </div>
+                    </div>
+                    <hr class="pub-divider">
+                    
                     <!-- GenIR -->
                     <div class="pub-item">
                         <div class="pub-img">
@@ -169,7 +186,7 @@
                         </div>
                         <div class="pub-info">
                             <div class="pub-title"><b>GenIR: Generative Visual Feedback for Mental Image Retrieval</b></div>
-                            <div class="pub-authors"><b>Diji Yang*</b>, Minghao Liu*, Chung-Hsiang Lo, Yi Zhang, James Davis</div>
+                            <div class="pub-authors"><b>Diji Yang<sup>*</sup></b>, Minghao Liu<sup>*</sup>, Chung-Hsiang Lo, Yi Zhang, James Davis</div>
                             <div class="pub-venue"><b>NeurIPS 2025</b> <a href="https://arxiv.org/abs/2506.06220" target="_blank">[Paper]</a> <a href="https://github.com/mikelmh025/generative_ir" target="_blank">[Code]</a></div>
                         </div>
                     </div>
@@ -182,7 +199,7 @@
                         </div>
                         <div class="pub-info">
                             <div class="pub-title"><b>Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals</b></div>
-                            <div class="pub-authors"> Linda Zeng, Rithwik Gupta, Divij Motwani, <b>Diji Yang**</b> , Yi Zhang**</div>
+                            <div class="pub-authors"> Linda Zeng, Rithwik Gupta, Divij Motwani, Yi Zhang<sup>&dagger;</sup>, <b>Diji Yang<sup>&dagger;</sup></b> </div>
                             <div class="pub-venue"><b>NeurIPS 2025</b> <a href="https://arxiv.org/abs/2502.16101" target="_blank">[Paper]</a> <a href="https://huggingface.co/datasets/UCSC-IRKM/RAGuard" target="_blank">[Dataset]</a></div>
                         </div>
                     </div>
@@ -194,7 +211,7 @@
                         </div>
                         <div class="pub-info">
                             <div class="pub-title"><b>Knowing You Don't Know: Learning When to Continue Search in Multi-round RAG through Self-Practicing</b></div>
-                            <div class="pub-authors"><b>Diji Yang*</b>, Linda Zeng*, Jinmeng Rao, Yi Zhang</div>
+                            <div class="pub-authors"><b>Diji Yang<sup>*</sup></b>, Linda Zeng<sup>*</sup>, Jinmeng Rao, Yi Zhang</div>
                             <div class="pub-venue"><b>SIGIR 2025</b> <a href="https://arxiv.org/abs/2505.02811" target="_blank">[Paper]</a> <a href="https://github.com/ucscirkm/SIM-RAG" target="_blank">[Code]</a></div>
                         </div>
                     </div>
@@ -206,7 +223,7 @@
                         </div>
                         <div class="pub-info">
                             <div class="pub-title"><b>Right this way: Can VLMs Guide Us to See More to Answer Questions?</b></div>
-                            <div class="pub-authors">Li Liu*, <b>Diji Yang*</b>, Sijia Zhong, Kalyana Suma Sree Tholeti, Lei Ding, Yi Zhang, Leilani H. Gilpin
+                            <div class="pub-authors">Li Liu<sup>*</sup>, <b>Diji Yang<sup>*</sup></b>, Sijia Zhong, Kalyana Suma Sree Tholeti, Lei Ding, Yi Zhang, Leilani H. Gilpin
                             </div>
                             <div class="pub-venue"><b>NeurIPS 2024</b> <a href="https://arxiv.org/abs/2411.00394" target="_blank">[Paper]</a> <a href="https://github.com/LeoLee7/Directional_guidance" target="_blank">[Code]</a> <a href="https://huggingface.co/datasets/LeoLee7/Directional_Guidance" target="_blank">[Dataset]</a></div>
                         </div>
